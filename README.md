@@ -1,5 +1,5 @@
 # Text-Summarization
-Finetuning Flan-T5 for Test Summarization
+Finetuning Flan-T5 for Text Summarization
 
 The dataset used for finetuning is CNN DailyMail dataset. Dataset Link : [https://cs.rochester.edu/nlp/rocstories/](https://www.kaggle.com/datasets/gowrishankarp/newspaper-text-summarization-cnn-dailymail)
 
